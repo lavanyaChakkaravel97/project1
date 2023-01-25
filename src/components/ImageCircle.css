@@ -1,0 +1,69 @@
+.container1 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+    background-image: url('C:\Users\Lavanya\website-yt-1\public\images\img-3.jpg');
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: auto;
+    height: 20vh;
+    width: 20vh;
+
+  }
+
+  .container2 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+    background-image: url('C:\Users\Lavanya\website-yt-1\public\images\img-5.jpg');
+    display: block;
+    margin-left: 30%;
+    margin-right: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 20vh;
+    width: 20vh;
+    position: relative;
+
+  }
+
+  .container3 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+    background-image: url('C:\Users\Lavanya\website-yt-1\public\images\img-4.jpg');
+    display: block;
+    margin-left: 300%;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 20vh;
+    width: 20vh;
+  
+  }
+  .container4 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+    background-image: url('C:\Users\Lavanya\website-yt-1\public\images\img-9.jpg');
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 50px;
+    height: 20vh;
+    width: 20vh;
+
+  }
+  
+  

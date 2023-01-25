@@ -1,0 +1,61 @@
+.img1{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+    background-image: url('C:\Users\Lavanya\website-yt-1\public\images\img-1.jpg');
+    display: flex;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.img2{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+    background-image: url('C:\Users\Lavanya\website-yt-1\public\images\img-2.jpg');
+    display: flex;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.img3{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+    background-image: url('C:\Users\Lavanya\website-yt-1\public\images\img-3.jpg');
+    display: flex;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.dotcontainer{
+    text-align: center;
+    position: absolute;
+    width: 50%;
+    bottom: 10px;
+}
+
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+    
+  }
+  
+  .active, .dot:hover {
+    background-color: #717171;
+  }
